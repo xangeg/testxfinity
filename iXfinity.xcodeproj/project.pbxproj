@@ -12,6 +12,14 @@
 		01624D8B1D5B017300D4B054 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01624D891D5B017300D4B054 /* Main.storyboard */; };
 		01624D8D1D5B017300D4B054 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01624D8C1D5B017300D4B054 /* Assets.xcassets */; };
 		01624D901D5B017300D4B054 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01624D8E1D5B017300D4B054 /* LaunchScreen.storyboard */; };
+		71012F981D5D001300AED0AE /* HOME.png in Resources */ = {isa = PBXBuildFile; fileRef = 71012F971D5D001300AED0AE /* HOME.png */; };
+		71012F9A1D5D037700AED0AE /* back.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71012F991D5D037700AED0AE /* back.jpeg */; };
+		71012F9C1D5D038B00AED0AE /* circle.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71012F9B1D5D038B00AED0AE /* circle.jpeg */; };
+		71012F9E1D5D039C00AED0AE /* wifi.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71012F9D1D5D039C00AED0AE /* wifi.jpeg */; };
+		71012FA01D5D03C800AED0AE /* RIGHT.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71012F9F1D5D03C800AED0AE /* RIGHT.jpeg */; };
+		71012FA21D5D0B3200AED0AE /* Devices.png in Resources */ = {isa = PBXBuildFile; fileRef = 71012FA11D5D0B3200AED0AE /* Devices.png */; };
+		71012FA41D5D0B3D00AED0AE /* Advanced.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71012FA31D5D0B3D00AED0AE /* Advanced.jpeg */; };
+		71012FA61D5D0B5B00AED0AE /* operation.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71012FA51D5D0B5B00AED0AE /* operation.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +30,14 @@
 		01624D8C1D5B017300D4B054 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01624D8F1D5B017300D4B054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01624D911D5B017300D4B054 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71012F971D5D001300AED0AE /* HOME.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = HOME.png; path = ../../HOME.png; sourceTree = "<group>"; };
+		71012F991D5D037700AED0AE /* back.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back.jpeg; path = ../../back.jpeg; sourceTree = "<group>"; };
+		71012F9B1D5D038B00AED0AE /* circle.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = circle.jpeg; path = ../../circle.jpeg; sourceTree = "<group>"; };
+		71012F9D1D5D039C00AED0AE /* wifi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wifi.jpeg; path = ../../wifi.jpeg; sourceTree = "<group>"; };
+		71012F9F1D5D03C800AED0AE /* RIGHT.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RIGHT.jpeg; path = ../../RIGHT.jpeg; sourceTree = "<group>"; };
+		71012FA11D5D0B3200AED0AE /* Devices.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Devices.png; path = ../../Devices.png; sourceTree = "<group>"; };
+		71012FA31D5D0B3D00AED0AE /* Advanced.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Advanced.jpeg; path = ../../Advanced.jpeg; sourceTree = "<group>"; };
+		71012FA51D5D0B5B00AED0AE /* operation.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = operation.jpeg; path = ../../operation.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,14 @@
 				01624D871D5B017300D4B054 /* ViewController.swift */,
 				01624D891D5B017300D4B054 /* Main.storyboard */,
 				01624D8C1D5B017300D4B054 /* Assets.xcassets */,
+				71012FA51D5D0B5B00AED0AE /* operation.jpeg */,
+				71012FA31D5D0B3D00AED0AE /* Advanced.jpeg */,
+				71012FA11D5D0B3200AED0AE /* Devices.png */,
+				71012F9F1D5D03C800AED0AE /* RIGHT.jpeg */,
+				71012F9D1D5D039C00AED0AE /* wifi.jpeg */,
+				71012F9B1D5D038B00AED0AE /* circle.jpeg */,
+				71012F991D5D037700AED0AE /* back.jpeg */,
+				71012F971D5D001300AED0AE /* HOME.png */,
 				01624D8E1D5B017300D4B054 /* LaunchScreen.storyboard */,
 				01624D911D5B017300D4B054 /* Info.plist */,
 			);
@@ -122,9 +146,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71012FA61D5D0B5B00AED0AE /* operation.jpeg in Resources */,
+				71012F981D5D001300AED0AE /* HOME.png in Resources */,
+				71012FA41D5D0B3D00AED0AE /* Advanced.jpeg in Resources */,
 				01624D901D5B017300D4B054 /* LaunchScreen.storyboard in Resources */,
 				01624D8D1D5B017300D4B054 /* Assets.xcassets in Resources */,
+				71012F9C1D5D038B00AED0AE /* circle.jpeg in Resources */,
+				71012FA01D5D03C800AED0AE /* RIGHT.jpeg in Resources */,
+				71012FA21D5D0B3200AED0AE /* Devices.png in Resources */,
+				71012F9A1D5D037700AED0AE /* back.jpeg in Resources */,
 				01624D8B1D5B017300D4B054 /* Main.storyboard in Resources */,
+				71012F9E1D5D039C00AED0AE /* wifi.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +318,7 @@
 				01624D961D5B017300D4B054 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
